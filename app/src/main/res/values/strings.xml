@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Air Horn StopWatch</string>
+    <string name="air_horn">air horn</string>
+    <string name="go">GO!</string>
+    <string name="stop">STOP!</string>
+    <string name="reset">→ RESET ←</string>
+</resources>
